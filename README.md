@@ -13,7 +13,6 @@ berikut hasil program :
 6.	Gunakan perulangan for, untuk mengulang suatu proses dengan jumlah pengulangan yang sudah ditentukan. Gunakan fungsi len() untuk mencari total panjang sebuah list.
 7.	Berikut hasil program yang telah dibuat:
 
-![Screenshot (102)](https://user-images.githubusercontent.com/57002773/69447207-9da87e00-0d88-11ea-93e7-83348566db70.png)
-
+![Screenshot (105)](https://user-images.githubusercontent.com/57002773/69448555-5d96ca80-0d8b-11ea-9f94-7bb9941400c2.png)
 
 <<<<<<<SEMOGA BERMANFAAT :)>>>>>>>
