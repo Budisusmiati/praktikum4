@@ -1,8 +1,8 @@
-#praktikum4
+#PRAKTIKUM4
 #Latihan List
 berikut hasil program :
+![Screenshot (103)](https://user-images.githubusercontent.com/57002773/69447214-a305c880-0d88-11ea-8517-18fa39966753.png)
 
-![Screenshot (102)](https://user-images.githubusercontent.com/57002773/69447207-9da87e00-0d88-11ea-93e7-83348566db70.png)
 
 #PROGRAM UNTUK MENAMBAHKAN DATA DAN MENENTUKAN NILAI MAHASISWA 
 1.	Pertama, buatlah list data yang akan diinput terlebih dahulu.
@@ -13,6 +13,7 @@ berikut hasil program :
 6.	Gunakan perulangan for, untuk mengulang suatu proses dengan jumlah pengulangan yang sudah ditentukan. Gunakan fungsi len() untuk mencari total panjang sebuah list.
 7.	Berikut hasil program yang telah dibuat:
 
-![Screenshot (103)](https://user-images.githubusercontent.com/57002773/69447214-a305c880-0d88-11ea-8517-18fa39966753.png)
+![Screenshot (102)](https://user-images.githubusercontent.com/57002773/69447207-9da87e00-0d88-11ea-93e7-83348566db70.png)
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<TERIMAKASIH>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<TERIMAKASIH>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
